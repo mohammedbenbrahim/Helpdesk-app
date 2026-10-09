@@ -1,7 +1,7 @@
 # Helpdesk-app
 # Helpdesk Ticket Management Platform
 
-A full-stack web application designed to streamline IT support, issue tracking, and ticket management. This platform was developed as a graduation project (Projet de Fin d'Études) to efficiently handle user requests through role-based access control, comprehensive administrative dashboards, and automated notifications.
+A full-stack web application designed to streamline IT support, issue tracking, and ticket management.
 
 ## Features
 
